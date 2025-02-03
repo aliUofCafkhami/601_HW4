@@ -40,7 +40,7 @@ By analyzing the correlations between, one can better understand the effect of v
 | Total GHG Emissions (Metric Tons CO2e) |          0.269227  |                                 1        |                           0.478433  |
 | Property GFA - Self-Reported (m²)      |         -0.0127329 |                                 0.478433 |                           1         |
 
-According to the correlation table, there is a weak correlation (0.269227) between the site energy use intensity and total greenhouse gas emission. The correlation between the property GFA and total greenhouse gas emission indicate that there is a mediacore correlation between these two (0.478433). the correlation value of -0.012733 indicates that there is no correlation between the property GFA and site EUI
+According to the correlation table, there is a weak correlation (0.269227) between the site energy use intensity and total greenhouse gas emission. The correlation between the property GFA and total greenhouse gas emission indicate that there is a mediacore correlation between these two (0.478433). the correlation value of -0.012733 indicates that there is no correlation between the property GFA and site EUI.
 
 
 
