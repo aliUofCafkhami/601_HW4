@@ -5,11 +5,12 @@ The objective of this assignment is to conduct a detailed analysis of the City o
 It is worth noting that one of the highlights of this assignment was to utilize the **Regular Expression (Regex)** in python, therefore, the cells where Regex was used have been accompanied with an explaination.
 
 Following is the result of the analysis:
+Table below, list
 
-|    | Primary Property Type - Self Selected   |   sum_EUI_prop_type |
-|---:|:----------------------------------------|--------------------:|
-|  9 | Office                                  |         1.01534e+06 |
-|  2 | Fitness Center/Health Club/Gym          |    889771           |
-|  0 | Distribution Center                     |    726555           |
-|  4 | Ice/Curling Rink                        |    567892           |
-|  1 | Fire Station                            |    306095           |
+| Primary Property Type - Self Selected   |   sum_EUI_prop_type |
+|:----------------------------------------|--------------------:|
+| Office                                  |         1.01534e+06 |
+| Fitness Center/Health Club/Gym          |    889771           |
+| Distribution Center                     |    726555           |
+| Ice/Curling Rink                        |    567892           |
+| Fire Station                            |    306095           |
